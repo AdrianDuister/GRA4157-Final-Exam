@@ -1,4 +1,9 @@
-# GRA4157-Final-Exam
-This is the Github repository for the GRA4157 Final Exam report.
+# GRA4157 – Final Exam Repository
 
-It includes all of the code used for the GRA4157 Final Exam report. 
+This repository contains supplemental material for my GRA4157 final exam submission.
+
+## Contents
+- A Jupyter Notebook with code that supports the analyses performed for the exam.
+
+The final written report is not included to avoid sharing exam-related content with others.
+
